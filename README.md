@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/addy1997/GrocerEase/blob/logo-and-block-diag-changed/utils/logo.jpeg"/>
+  <img src="https://github.com/addy1997/GrocerEase/blob/devel/utils/logo.jpeg"/>
 </p>
 
 ## GrocerEase
@@ -9,6 +9,7 @@
 [![GitHub open issues](https://img.shields.io/github/issues-raw/RTEP-Project-Team/GrocerEase.svg)](https://github.com/RTEP-Project-Team/GrocerEase/issues) 
 [![GitHub open pull requests](https://img.shields.io/github/issues-pr-raw/RTEP-Project-Team/GrocerEase.svg)](https://github.com/RTEP-Project-Team/GrocerEase/pulls) ![](https://img.shields.io/github/repo-size/RTEP-Project-Team/GrocerEase.svg?label=Repo%20size&style=flat-square)&nbsp;
 ![Contributors](https://img.shields.io/github/contributors/RTEP-Project-Team/GrocerEase.svg?style=flat&label=Contributors&maxAge=86400)
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/2828e203148b4c85a3bc92c215709f32)](https://www.codacy.com/gh/addy1997/GrocerEase/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=addy1997/GrocerEase&amp;utm_campaign=Badge_Grade)
 
 #### Contents
 
@@ -26,7 +27,7 @@ Our approach is based on developing an intelligent, fully autonomous trolley bas
 
 ## [Conceptualisation](#GrocerEase)
 
-![Temporary Block Diagram](https://github.com/addy1997/GrocerEase/blob/logo-and-block-diag-changed/utils/block_diagram.jpeg)
+![Temporary Block Diagram](https://github.com/addy1997/GrocerEase/blob/devel/utils/block_diagram.jpeg)
 
 ## [Project Roadmap](#GrocerEase)
 
