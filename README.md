@@ -4,6 +4,7 @@
 
 ## GrocerEase
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/00d116bbed0640eca4194629e247f4fe)](https://app.codacy.com/gh/addy1997/GrocerEase?utm_source=github.com&utm_medium=referral&utm_content=addy1997/GrocerEase&utm_campaign=Badge_Grade_Settings)
 [![License](https://img.shields.io/badge/license-LGPL_2.1-blue)](LICENSE)
 ![Stars](https://img.shields.io/github/stars/RTEP-Project-Team/GrocerEase.svg?style=flat&label=Star&maxAge=86400)
 [![GitHub open issues](https://img.shields.io/github/issues-raw/RTEP-Project-Team/GrocerEase.svg)](https://github.com/RTEP-Project-Team/GrocerEase/issues) 
